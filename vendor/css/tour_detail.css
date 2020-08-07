@@ -1,0 +1,63 @@
+
+.title-tour{
+	margin: 10px 0;
+}
+
+.time-of-tour{
+	color: #f9461d;
+	font-size: 15px;
+	margin-top: 20px;
+	display: block;
+	font-weight: bold;
+}
+
+.btn-tour-submit:hover{
+	background: #f1f1f1;
+	border-color:#f9461d;
+	color: #f9461d;
+}
+.btn-tour-submit{
+	width: 100%;
+}
+
+#tour-slider{
+	padding: 100px 0;
+}
+
+.pic-tour-detail-1{
+	background-image: url(../../images/portfolio/6.jpg);
+}
+.pic-tour-detail-2{
+	background-image: url(../../images/portfolio/4.jpg);
+}
+.pic-tour-detail-3{
+	background-image: url(../../images/portfolio/2.jpg);
+}
+.pic-tour-detail{
+	background-size: cover;
+	background-position: center center;
+	height: 300px;
+	width: 100%;
+}
+
+
+.slider-tour-detail .title-slider-content{
+	text-align: center;
+	margin-bottom: 0;
+}
+.slider-tour-detail .slider-content{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+	
+
+.slider-content{
+	width: 50%;
+	margin: 0 auto;
+}
+
+.slider-tour-detail .container-fluid{
+	padding-left: 0;
+	padding-right: 0;
+}
